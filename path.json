@@ -1,0 +1,99 @@
+{
+    "keys": [
+      "p"
+    ],
+    "length": 1,
+    "_fields": [
+      {
+        "start": {
+          "identity": {
+            "low": 7,
+            "high": 0
+          },
+          "labels": [
+            "Hierarchy"
+          ],
+          "properties": {
+            "legalName": "Revolut",
+            "version": {
+              "low": 1,
+              "high": 0
+            }
+          },
+          "elementId": "4:58888187-2991-481b-9946-6ab8c0509ac1:7"
+        },
+        "end": {
+          "identity": {
+            "low": 8,
+            "high": 0
+          },
+          "labels": [
+            "PLH"
+          ],
+          "properties": {
+            "name": "Revolut"
+          },
+          "elementId": "4:58888187-2991-481b-9946-6ab8c0509ac1:8"
+        },
+        "segments": [
+          {
+            "start": {
+              "identity": {
+                "low": 7,
+                "high": 0
+              },
+              "labels": [
+                "Hierarchy"
+              ],
+              "properties": {
+                "legalName": "Revolut",
+                "version": {
+                  "low": 1,
+                  "high": 0
+                }
+              },
+              "elementId": "4:58888187-2991-481b-9946-6ab8c0509ac1:7"
+            },
+            "relationship": {
+              "identity": {
+                "low": 3,
+                "high": 0
+              },
+              "start": {
+                "low": 7,
+                "high": 0
+              },
+              "end": {
+                "low": 8,
+                "high": 0
+              },
+              "type": "TOP_ENTITY",
+              "properties": {
+                "currentVersion": true
+              },
+              "elementId": "5:58888187-2991-481b-9946-6ab8c0509ac1:3",
+              "startNodeElementId": "4:58888187-2991-481b-9946-6ab8c0509ac1:7",
+              "endNodeElementId": "4:58888187-2991-481b-9946-6ab8c0509ac1:8"
+            },
+            "end": {
+              "identity": {
+                "low": 8,
+                "high": 0
+              },
+              "labels": [
+                "PLH"
+              ],
+              "properties": {
+                "name": "Revolut"
+              },
+              "elementId": "4:58888187-2991-481b-9946-6ab8c0509ac1:8"
+            }
+          }
+        ],
+        "length": 1
+      }
+    ],
+    "_fieldLookup": {
+      "p": 0
+    }
+  }

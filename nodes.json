@@ -1,0 +1,66 @@
+{
+    "keys": [
+      "h",
+      "r",
+      "plh"
+    ],
+    "length": 3,
+    "_fields": [
+      {
+        "identity": {
+          "low": 1,
+          "high": 0
+        },
+        "labels": [
+          "Hierarchy"
+        ],
+        "properties": {
+          "legalName": "Telefonica",
+          "version": {
+            "low": 1,
+            "high": 0
+          }
+        },
+        "elementId": "4:58888187-2991-481b-9946-6ab8c0509ac1:1"
+      },
+      {
+        "identity": {
+          "low": 0,
+          "high": 0
+        },
+        "start": {
+          "low": 1,
+          "high": 0
+        },
+        "end": {
+          "low": 2,
+          "high": 0
+        },
+        "type": "TOP_ENTITY",
+        "properties": {
+          "currentVersion": true
+        },
+        "elementId": "5:58888187-2991-481b-9946-6ab8c0509ac1:0",
+        "startNodeElementId": "4:58888187-2991-481b-9946-6ab8c0509ac1:1",
+        "endNodeElementId": "4:58888187-2991-481b-9946-6ab8c0509ac1:2"
+      },
+      {
+        "identity": {
+          "low": 2,
+          "high": 0
+        },
+        "labels": [
+          "PLH"
+        ],
+        "properties": {
+          "name": "Telefonica"
+        },
+        "elementId": "4:58888187-2991-481b-9946-6ab8c0509ac1:2"
+      }
+    ],
+    "_fieldLookup": {
+      "h": 0,
+      "r": 1,
+      "plh": 2
+    }
+  }
